@@ -27,6 +27,9 @@ public class EJERCICIOSPOO {
         //imprimo todo con tostring
         System.out.println(libro1.toString());
 
+        
+        
+        
         // System.out.println("ahora imprimo uno por uno con get ");
         //System.out.println(libro1.getISBN());
         //System.out.println(libro1.getTitulo());
